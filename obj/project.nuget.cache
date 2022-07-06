@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T0KQ7s1/oXzZXANxZE0fOvIf3BU61/3fSzHFjRWcXrs0lnbmIk2I3tstpRfwS+/jDgkooIwC724Jo2ybYTTwfA==",
+  "dgSpecHash": "rjHa45kG4z2ImRZc6D9yoecAZs/fosOSAzEwbjl6KfmVscLz5Yo1SacVcztNlIO1JRYrpPH8u6Azp0cMwaou8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luis-\\source\\repos\\LecturaLDR\\LecturaLDR.csproj",
+  "projectFilePath": "C:\\Users\\luis-\\source\\repos\\P1_LecturaLDR\\LecturaLDR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luis-\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
     "C:\\Users\\luis-\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",

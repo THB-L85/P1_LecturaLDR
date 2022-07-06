@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luis-\\source\\repos\\LecturaLDR\\LecturaLDR.csproj": {}
+    "C:\\Users\\luis-\\source\\repos\\P1_LecturaLDR\\LecturaLDR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luis-\\source\\repos\\LecturaLDR\\LecturaLDR.csproj": {
+    "C:\\Users\\luis-\\source\\repos\\P1_LecturaLDR\\LecturaLDR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luis-\\source\\repos\\LecturaLDR\\LecturaLDR.csproj",
+        "projectUniqueName": "C:\\Users\\luis-\\source\\repos\\P1_LecturaLDR\\LecturaLDR.csproj",
         "projectName": "LecturaLDR",
-        "projectPath": "C:\\Users\\luis-\\source\\repos\\LecturaLDR\\LecturaLDR.csproj",
+        "projectPath": "C:\\Users\\luis-\\source\\repos\\P1_LecturaLDR\\LecturaLDR.csproj",
         "packagesPath": "C:\\Users\\luis-\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luis-\\source\\repos\\LecturaLDR\\obj\\",
+        "outputPath": "C:\\Users\\luis-\\source\\repos\\P1_LecturaLDR\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luis-\\AppData\\Roaming\\NuGet\\NuGet.Config",

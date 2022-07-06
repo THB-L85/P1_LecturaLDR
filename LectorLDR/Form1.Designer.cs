@@ -37,6 +37,10 @@
             this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
+            // serialPort1
+            // 
+            this.serialPort1.DataReceived += new System.IO.Ports.SerialDataReceivedEventHandler(this.ptoSerial_DataReceived);
+            // 
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
@@ -47,6 +51,7 @@
             this.checkBox1.TabIndex = 0;
             this.checkBox1.Text = "Puerto Cerrado";
             this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox1.CheckedChanged += new System.EventHandler(this.Abrir_CheckedChanged);
             // 
             // comboBox1
             // 
@@ -55,6 +60,7 @@
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(306, 21);
             this.comboBox1.TabIndex = 1;
+            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.ComboPuertos_SelectIndexChanged);
             // 
             // textBox1
             // 
@@ -62,13 +68,16 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(383, 20);
             this.textBox1.TabIndex = 2;
+            this.textBox1.TextChanged += new System.EventHandler(this.RecibirTexto);
             // 
             // progressBar1
             // 
             this.progressBar1.Location = new System.Drawing.Point(160, 190);
+            this.progressBar1.Maximum = 1023;
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(383, 26);
             this.progressBar1.TabIndex = 3;
+            this.progressBar1.Value = 100;
             // 
             // label1
             // 

@@ -1,0 +1,14 @@
+C:\Users\luis-\source\repos\P1_LecturaLDR\LectorLDR\bin\Debug\LectorLDR.exe.config
+C:\Users\luis-\source\repos\P1_LecturaLDR\LectorLDR\bin\Debug\LectorLDR.exe
+C:\Users\luis-\source\repos\P1_LecturaLDR\LectorLDR\bin\Debug\LectorLDR.pdb
+C:\Users\luis-\source\repos\P1_LecturaLDR\LectorLDR\bin\Debug\System.IO.Ports.dll
+C:\Users\luis-\source\repos\P1_LecturaLDR\LectorLDR\bin\Debug\System.IO.Ports.xml
+C:\Users\luis-\source\repos\P1_LecturaLDR\LectorLDR\obj\Debug\LectorLDR.csproj.AssemblyReference.cache
+C:\Users\luis-\source\repos\P1_LecturaLDR\LectorLDR\obj\Debug\LectorLDR.csproj.SuggestedBindingRedirects.cache
+C:\Users\luis-\source\repos\P1_LecturaLDR\LectorLDR\obj\Debug\LectorLDR.LectorLDR.resources
+C:\Users\luis-\source\repos\P1_LecturaLDR\LectorLDR\obj\Debug\LectorLDR.Properties.Resources.resources
+C:\Users\luis-\source\repos\P1_LecturaLDR\LectorLDR\obj\Debug\LectorLDR.csproj.GenerateResource.cache
+C:\Users\luis-\source\repos\P1_LecturaLDR\LectorLDR\obj\Debug\LectorLDR.csproj.CoreCompileInputs.cache
+C:\Users\luis-\source\repos\P1_LecturaLDR\LectorLDR\obj\Debug\LectorLDR.csproj.CopyComplete
+C:\Users\luis-\source\repos\P1_LecturaLDR\LectorLDR\obj\Debug\LectorLDR.exe
+C:\Users\luis-\source\repos\P1_LecturaLDR\LectorLDR\obj\Debug\LectorLDR.pdb
