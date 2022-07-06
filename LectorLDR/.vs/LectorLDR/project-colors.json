@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a750adc-c7fe-44fa-acc0-2d3c94c63cdb": {
+      "ProjectGuid": "5a750adc-c7fe-44fa-acc0-2d3c94c63cdb",
+      "DisplayName": "LectorLDR",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
